@@ -21,7 +21,6 @@ div.margin{
     margin-top: 1rem;
 }
 
-div.height{
-    height: 40px;
+div.height div{
+    height: 30px;
 }
-
